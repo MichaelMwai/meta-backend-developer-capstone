@@ -1,4 +1,4 @@
-# Meta Back-End Developer Capstone
+# Meta Back-End Developer Capstone Assignment
 
 ![Coursera](https://img.shields.io/badge/Coursera-0747a6?style=flat&logo=coursera&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta-0668E1?style=flat&logo=meta&logoColor=white)
